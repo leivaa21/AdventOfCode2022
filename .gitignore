@@ -7,3 +7,5 @@
 .pnp.*
 
 coverage
+
+node_modules
